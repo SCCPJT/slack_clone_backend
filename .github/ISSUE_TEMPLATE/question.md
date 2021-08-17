@@ -3,7 +3,7 @@ name: Question
 about: Ask us what you are curious about.
 title: 
 labels: question
-assignees: AndoneKwon, DolphaGo, goodGid, heonilp, ParkJiwoon, syureu
+assignees: AndoneKwon, heonilp, ParkJiwoon, syureu
 
 ---
 
